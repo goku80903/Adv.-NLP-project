@@ -1,0 +1,312 @@
+Activating conda environment
+training the model
+cuda
+Loading data
+100000
+Data is loaded
+8
+iterators are made and the vocab is being built
+Size of encoder vocab is: 280930
+Size of decoder vocab is: 38790
+model initialized
+training is starting
+starting training..
+Training completed!
+Starting eval loss..
+Evaluation is completed!
+YES
+Epoch: 01 | Time: 115m 23s
+	Train Loss: 5.549 | Train PPL: 256.998
+	 Val. Loss: 4.885 |  Val. PPL: 132.310
+starting training..
+Training completed!
+Starting eval loss..
+Evaluation is completed!
+YES
+Epoch: 02 | Time: 115m 29s
+	Train Loss: 5.325 | Train PPL: 205.485
+	 Val. Loss: 4.774 |  Val. PPL: 118.354
+starting training..
+Training completed!
+Starting eval loss..
+Evaluation is completed!
+YES
+Epoch: 03 | Time: 115m 31s
+	Train Loss: 5.236 | Train PPL: 187.983
+	 Val. Loss: 4.723 |  Val. PPL: 112.510
+starting training..
+Training completed!
+Starting eval loss..
+Evaluation is completed!
+YES
+Epoch: 04 | Time: 115m 39s
+	Train Loss: 5.161 | Train PPL: 174.400
+	 Val. Loss: 4.673 |  Val. PPL: 106.987
+starting training..
+Training completed!
+Starting eval loss..
+Evaluation is completed!
+YES
+Epoch: 05 | Time: 115m 31s
+	Train Loss: 5.090 | Train PPL: 162.467
+	 Val. Loss: 4.633 |  Val. PPL: 102.789
+starting training..
+Training completed!
+Starting eval loss..
+Evaluation is completed!
+YES
+Epoch: 06 | Time: 115m 44s
+	Train Loss: 5.030 | Train PPL: 152.869
+	 Val. Loss: 4.568 |  Val. PPL:  96.343
+starting training..
+Training completed!
+Starting eval loss..
+Evaluation is completed!
+YES
+Epoch: 07 | Time: 115m 46s
+	Train Loss: 4.968 | Train PPL: 143.806
+	 Val. Loss: 4.530 |  Val. PPL:  92.751
+starting training..
+Training completed!
+Starting eval loss..
+Evaluation is completed!
+YES
+Epoch: 08 | Time: 115m 45s
+	Train Loss: 4.916 | Train PPL: 136.396
+	 Val. Loss: 4.501 |  Val. PPL:  90.097
+starting training..
+Training completed!
+Starting eval loss..
+Evaluation is completed!
+YES
+Epoch: 09 | Time: 115m 48s
+	Train Loss: 4.872 | Train PPL: 130.578
+	 Val. Loss: 4.455 |  Val. PPL:  86.057
+starting training..
+Training completed!
+Starting eval loss..
+Evaluation is completed!
+Epoch: 10 | Time: 116m 0s
+	Train Loss: 4.838 | Train PPL: 126.246
+	 Val. Loss: 4.461 |  Val. PPL:  86.578
+starting training..
+Training completed!
+Starting eval loss..
+Evaluation is completed!
+YES
+Epoch: 11 | Time: 115m 53s
+	Train Loss: 4.808 | Train PPL: 122.457
+	 Val. Loss: 4.448 |  Val. PPL:  85.418
+starting training..
+Training completed!
+Starting eval loss..
+Evaluation is completed!
+YES
+Epoch: 12 | Time: 115m 49s
+	Train Loss: 4.778 | Train PPL: 118.892
+	 Val. Loss: 4.431 |  Val. PPL:  84.010
+starting training..
+Training completed!
+Starting eval loss..
+Evaluation is completed!
+YES
+Epoch: 13 | Time: 115m 49s
+	Train Loss: 4.752 | Train PPL: 115.864
+	 Val. Loss: 4.402 |  Val. PPL:  81.654
+starting training..
+Training completed!
+Starting eval loss..
+Evaluation is completed!
+YES
+Epoch: 14 | Time: 115m 54s
+	Train Loss: 4.731 | Train PPL: 113.399
+	 Val. Loss: 4.392 |  Val. PPL:  80.808
+starting training..
+Training completed!
+Starting eval loss..
+Evaluation is completed!
+Epoch: 15 | Time: 115m 46s
+	Train Loss: 4.701 | Train PPL: 110.069
+	 Val. Loss: 4.401 |  Val. PPL:  81.495
+starting training..
+Training completed!
+Starting eval loss..
+Evaluation is completed!
+Epoch: 16 | Time: 115m 53s
+	Train Loss: 4.682 | Train PPL: 107.946
+	 Val. Loss: 4.400 |  Val. PPL:  81.445
+starting training..
+Training completed!
+Starting eval loss..
+Evaluation is completed!
+YES
+Epoch: 17 | Time: 115m 55s
+	Train Loss: 4.661 | Train PPL: 105.737
+	 Val. Loss: 4.391 |  Val. PPL:  80.696
+starting training..
+Training completed!
+Starting eval loss..
+Evaluation is completed!
+YES
+Epoch: 18 | Time: 115m 52s
+	Train Loss: 4.642 | Train PPL: 103.800
+	 Val. Loss: 4.360 |  Val. PPL:  78.248
+starting training..
+Training completed!
+Starting eval loss..
+Evaluation is completed!
+YES
+Epoch: 19 | Time: 115m 51s
+	Train Loss: 4.625 | Train PPL: 102.020
+	 Val. Loss: 4.355 |  Val. PPL:  77.890
+starting training..
+Training completed!
+Starting eval loss..
+Evaluation is completed!
+YES
+Epoch: 20 | Time: 115m 54s
+	Train Loss: 4.609 | Train PPL: 100.392
+	 Val. Loss: 4.340 |  Val. PPL:  76.743
+starting training..
+Training completed!
+Starting eval loss..
+Evaluation is completed!
+YES
+Epoch: 21 | Time: 115m 51s
+	Train Loss: 4.589 | Train PPL:  98.359
+	 Val. Loss: 4.335 |  Val. PPL:  76.306
+starting training..
+Training completed!
+Starting eval loss..
+Evaluation is completed!
+YES
+Epoch: 22 | Time: 115m 58s
+	Train Loss: 4.572 | Train PPL:  96.774
+	 Val. Loss: 4.315 |  Val. PPL:  74.800
+starting training..
+Training completed!
+Starting eval loss..
+Evaluation is completed!
+Epoch: 23 | Time: 115m 53s
+	Train Loss: 4.558 | Train PPL:  95.389
+	 Val. Loss: 4.317 |  Val. PPL:  74.961
+starting training..
+Training completed!
+Starting eval loss..
+Evaluation is completed!
+Epoch: 24 | Time: 116m 1s
+	Train Loss: 4.544 | Train PPL:  94.020
+	 Val. Loss: 4.317 |  Val. PPL:  74.992
+starting training..
+Training completed!
+Starting eval loss..
+Evaluation is completed!
+Epoch: 25 | Time: 115m 58s
+	Train Loss: 4.529 | Train PPL:  92.680
+	 Val. Loss: 4.319 |  Val. PPL:  75.113
+starting training..
+Training completed!
+Starting eval loss..
+Evaluation is completed!
+YES
+Epoch: 26 | Time: 115m 57s
+	Train Loss: 4.512 | Train PPL:  91.061
+	 Val. Loss: 4.293 |  Val. PPL:  73.186
+starting training..
+Training completed!
+Starting eval loss..
+Evaluation is completed!
+Epoch: 27 | Time: 115m 52s
+	Train Loss: 4.499 | Train PPL:  89.940
+	 Val. Loss: 4.317 |  Val. PPL:  74.970
+starting training..
+Training completed!
+Starting eval loss..
+Evaluation is completed!
+Epoch: 28 | Time: 116m 4s
+	Train Loss: 4.486 | Train PPL:  88.810
+	 Val. Loss: 4.297 |  Val. PPL:  73.480
+starting training..
+Training completed!
+Starting eval loss..
+Evaluation is completed!
+Epoch: 29 | Time: 115m 55s
+	Train Loss: 4.471 | Train PPL:  87.461
+	 Val. Loss: 4.310 |  Val. PPL:  74.416
+starting training..
+Training completed!
+Starting eval loss..
+Evaluation is completed!
+Epoch: 30 | Time: 116m 2s
+	Train Loss: 4.465 | Train PPL:  86.886
+	 Val. Loss: 4.303 |  Val. PPL:  73.895
+starting training..
+Training completed!
+Starting eval loss..
+Evaluation is completed!
+Epoch: 31 | Time: 115m 56s
+	Train Loss: 4.445 | Train PPL:  85.224
+	 Val. Loss: 4.307 |  Val. PPL:  74.248
+starting training..
+Training completed!
+Starting eval loss..
+Evaluation is completed!
+Epoch: 32 | Time: 116m 8s
+	Train Loss: 4.435 | Train PPL:  84.321
+	 Val. Loss: 4.296 |  Val. PPL:  73.422
+starting training..
+Training completed!
+Starting eval loss..
+Evaluation is completed!
+Epoch: 33 | Time: 116m 3s
+	Train Loss: 4.425 | Train PPL:  83.505
+	 Val. Loss: 4.297 |  Val. PPL:  73.444
+starting training..
+Training completed!
+Starting eval loss..
+Evaluation is completed!
+Epoch: 34 | Time: 116m 7s
+	Train Loss: 4.407 | Train PPL:  82.005
+	 Val. Loss: 4.309 |  Val. PPL:  74.331
+starting training..
+Training completed!
+Starting eval loss..
+Evaluation is completed!
+YES
+Epoch: 35 | Time: 116m 8s
+	Train Loss: 4.398 | Train PPL:  81.294
+	 Val. Loss: 4.286 |  Val. PPL:  72.644
+random evaluation is starting...
+
+Src:  two brothers kidnapped a 16-year - old runaway and sold her for sex to as many as two dozen men every day , prosecutors in miami said . <unk> thomas and <unk> ballard , both 24 , allegedly held the girl for two weeks , continually <unk> her with drugs while they pimped her out to make money for hotel rooms , food and drugs . they are said to have plied her with cocaine and mdma , and threatened to hurt her family if she tried to escape . when she did try to flee , they beat her , court papers said . charged <unk> thomas , left , and <unk> ballard , right , both 24 , allegedly held a teenage girl for two weeks , <unk> her mdma while pimping her out to make money for hotel rooms , food and drugs . miami - dade state attorney katherine fernandez <unk> said it was one of the worst cases she is seen . she to them was nothing more than a walking machine . no dignity , not a young girl . a cash machine , cbs miami quoted her as saying . she was forced to engage in sex , up to 24 men , up to 24 men per night , ms fernandez <unk> said . that is a man every 30 minutes from 6 am to 6 pm at night . only to repeat itself the next day and the next day . the local television station reported that thomas faced so many charges he appeared unable to keep up as a judge read them aloud in bond court yesterday . he and ballard are accused of preying on the girl after she ran away from home , forcing her into prostitution for two weeks in january until she was able to escape . to keep her subdued the pair allegedly provided her with cannabis , as well as spiking her food with <unk> - a slang term for mdma tablets - and <unk> her cigarettes with cocaine . they are said to have forced her to walk the streets of south miami - dade looking for johns who paid just 100 dollars for full sex or 50 for a lesser sex act . thomas and ballard also allegedly touted for customers as well , even visiting gas station bathrooms in their search for men who would pay to have sex with the underage girl . thomas told the victim that if she tried to leave they knew where her family lived and they would shoot up her house and hurt or kill her family , the warrant affidavit said . nevertheless , the victim made a number of attempts to flee that resulted in her suffering punishment beatings at the hands of both men , investigators said . every time she tried to escape they would beat her up , grab her back , ms fernandez <unk> said . in one case they picked her broken body up and took her back up into the motel . <unk> the intersection of campbell drive and <unk> avenue , one of the areas that thomas and ballard forced the young girl to walk the streets looking for customers who paid 100 for sex . the girl was finally able to escape when she finished with a customer and realised thomas was still in the bathroom of the hotel room where she was being kept , according to the warrant affidavit . she is said to have fled on foot and took a bus to another part of town , but was soon spotted by thomas and ballard as she walked down a street . chased by both men , she ran into an abandoned house where they again subjected her to a vicious beating before themselves fleeing , according to the affidavit . thomas and ballard are facing a string of charges including human trafficking , lewd or lascivious battery on a child between 12 and 16 and <unk> support from the proceeds of prostitution . both men are being held at turner <unk> knight correctional center , county records show . if they are found guilty they face life in jail
+Actual:  bogacski thomas and tavarus ballard are facing life in prison if convicted . they allegedly plied the with cocaine and mdma to keep her quiet . if she tried to flee , they allegedly her and threatened to hurt her family
+Predicted:  <unk> <unk> , 27 , was arrested in a , . . . . . . . . she was her to to her her . . she was her to her her boyfriend her <unk> in a <unk> - old girl . . . .
+
+Src:  southampton stopped chelsea from going eight points clear at the top of the premier league after dusan tadic cancelled out diego costa is opener at stamford bridge . costa opened the scoring on 11 minutes when he headed past fraser forster , but when nemanja matic brought down sadio mane shortly after , the saints were gifted a way back into the game . tadic did not need asking twice as he slotted the ball past thibaut courtois , and the scores remained at 1 - 1 . find out how each player <unk> at stamford bridge with sportsmail is neil ashton . chelsea 4 - 2 - 3 - 1 . thibaut courtois - excellent save from mane in 13th minute , low to his right . saved brilliantly from mane again 30 minutes in . 8 . thibaut courtois made an excellent save from sadio mane early on , and was solid throughout the game . branislav ivanovic - provided the quality cross for costa to head home . unlucky not to have won penalty . 6 . gary cahill - all over the shop . what happened to the gary cahill from the capital one cup final ? still at wembley celebrating . 5.5 . john terry - chaotic in defence , along with the rest of chelsea is back four . 5.5 . john terry pictured , alongside his centre - back partner gary cahill , were chaotic throughout in defence . cesar azpilicueta - looks like a man in need of a <unk> . that may well come at hull on sunday . 5.5 . nemanja matic - gave away penalty for saints to equalise , no complaints . booked . should have been sent off for foul on mane in <unk> minute . 5 . cesc fabregas - looks tired and lacking ideas or inspiration . 5 . willian - got going at the start of the second half with some nice touches around the box . 6 . cesc fabregas looked like he needs a rest he was lacking any ideas or inspiration during the game . oscar - quiet and subdued , what has happened to him ? substituted . 5 . eden hazard - sweet touches , just needed the end product . always a joy to watch . deserved a goal for this performance . 8 . diego costa - started and finished the move for chelsea is opener . welcome back , diego . 7 . eden hazard is always a joy to watch and this was no different - he deserved a goal to top off his performance . substitutes . ramires matic 53 had to happen , before matic was sent off . 6 . loic remy oscar 82 inevitable substitution . 6 . juan cuadrado willian 83 desperate last throw of the dice by mourinho to find a winner . 6 . jose mourinho is side were knocked out of the champions league this week , and could not beat southampton . <unk> not used petr cech , filipe luis , kurt zouma , didier drogba . booked matic , ivanovic , cahill . manager - jose mourinho expected a reaction from his team after champions league elimination . did not get one . 6 . southampton 4 - 2 - 3 - 1 . fraser forster - no chance with chelsea is opener , safe as houses after that . 7 . nathaniel clyne - steady at the back , one of the most <unk> right backs in the premier league now . 7 . toby alderweireld - one of the finds of the season . saints can not let him go . 7.5 . toby alderweireld left has been one of the finds of the season , and southampton can not let him leave . jose fonte - another commanding performance . all got very <unk> at the end , came through it unscathed . 7 . ryan bertrand - some <unk> crosses from the left against his old side , especially in the first half . 7 . victor wanyama - tough guy in the centre , loved his battle with matic . eventually booked . 6.5 . morgan schneiderlin - big chance to score flew wide , looked desperate to hit the winner . 7 . southampton players morgan schneiderlin , victor wanyama and jose fonte celebrate at the final whistle . steven davis - the accessory in midfield but still played his part in an excellent team performance . 7 . dusan tadic - sweet cut back for mane , went on to score penalty after 19 minutes . courtois saved chances brilliantly in 13th and 30th minute . 7 . shane long - <unk> performance , good call to leave pelle out of the starting line up . 7 . dusan tadic right wheels away in celebration after scoring southampton is equaliser on sunday . sadio mane - won the penalty . terrorised chelsea is defence with his quick footwork . all three chelsea bookings came from fouls on him . game of his life . 8.5 . substitutes . <unk> <unk> tadic 71 little threat down the left . 6 . james ward - prowse david 71 stuck to defensive duties . 6 . graziano pelle long 83 thrown on . sadio mane right had the game of his life for southampton , terrorising chelsea is defence throughout . <unk> not used kelvin davis , maya <unk> , <unk> <unk> , pelle , targett . booked mane , wanyama <unk> . manager - ronald koeman brilliant response from team when the went 1 - 0 down . composed , <unk> , <unk> performance . 7.5 . ronald koeman is team responded brilliantly after going a goal down , and were level just eight minutes later . referee mike dean . pretty much spot on with most decisions . difficult for him to spot ivanovic being tripped . 8 . attendance <unk> . man of the match saido mane
+Actual:  diego costa opened the scoring for chelsea in the 11th minute . the lead did not last nemanja matic brought down sadio mane in the box . dusan tadic levelled from the spot , the score remained 1 - 1 . mane had the game of his life , while eden was also excellent . chelsea is defensive pairing of john tery and gary cahill were poor
+Predicted:  chelsea beat chelsea 1 - 0 in the premier league . . . . . . . a as as a as . . . . . . <unk> . . . . . . . .
+
+Src:  a group of pranksters managed to trick more than a dozen art lovers into thinking that a cheap print from ikea was a valuable work of modern art . dutch youtube jokers <unk> took a 7 10 euro print and placed it in an art museum in arnhem , and asked visitors what they thought of the painting and how much it could be worth . several art fans praised the ikea print , with some valuing it to 1.8 million 2.5 million euro , before being told of the hoax . funny guys a group of dutch youtube jokers took a 7 print from ikea and placed it in the museum for modern art in arnhem . the team from <unk> placed the cheap <unk> on display in the museum for modern art in arnhem , and asked art lovers for an appraisal . they told visitors the painting was done by famous swedish artist <unk> andrews , and , according to the pranksters , all of the nearly 20 people interviewed bought the lie . the video shows presenter boris <unk> talking about the painting to a number of visitors , who call the cheap print modern and shocking . one man praises the print for its <unk> of things on top of each other , inside each other . another visitor , a man in a <unk> , beard and glasses , claims he can clearly see that it concerns a form of <unk> , adding that the artist has a beautiful spirit . joke presenter boris <unk> told visitors the painting was done by famous swedish artist <unk> andrews and say everyone of the nearly 20 people interviewed bought the lie . a man in a <unk> , beard and glasses , claims he can clearly see that it concerns a form of <unk> when asked how much they believe the artwork to be worth , one <unk> over 1,000 euro , while another says if you could buy this for 2.5 million euros , i would do it . the whole day everyone thought our painting amazing , the team behind the prank says . when the people talked about that this image is a symbol of the <unk> spirit , and that it could be worth a 200,000 euros or even 2.5 million euros it made us laugh inside ! when the pranksters told the art fans about their ikea hoax , a majority saw the funny side , but , <unk> reveals , not all were pleased about being duped . the last two guys could not even say one word as a reaction and just walked away with red <unk> . we could feel the <unk> . taking it well when the pranksters told the art fans about their ikea hoax , a majority saw the funny side . hit a nerve ? two men who had praised the painting were so offended when told that it was a cheap ikea print that they left without a word . this comes just days after ikea customers in the netherlands were stopped from organising a mass - game of hide and seek . a whopping 19,000 people signed up to a facebook group promoting a game at ikea is amsterdam branch next month , and another 13,000 signed up for a game in the ikea store in the city of <unk> . but the swedish retail giant has bad news for folks wanting to hide among its room - like furniture displays the numbers signing up are getting out of hand and the events have been blocked . we have contacted these pages on social media and <unk> asked them to have their hide and seek games somewhere else , ikea spokeswoman <unk> <unk> said tuesday . ms <unk> added that ikea does not want to be a <unk> , but safety comes first
+Actual:  youtube pranksters tricked dutch artlovers into praising cheap print . placed 7 ikea poster in modern art in the netherlands . fans called it shocking and praised the artist is beautiful spirit . when to value it , one man said it was worth 1.8 million
+Predicted:  the <unk> of the <unk> art of art art . . . . . . . . . the to to to <unk> <unk> .
+
+Src:  america , this bud light is for you . at least that is what a new map showing every country is most popular beer indicates . the map was created using everything from research reports to corporate <unk> and it shows the beer brands of the world are as diverse as our planet itself . scroll down for video . the most popular beer for each country was determined by market share and <unk> made the map . bud light is the most popular beer in the us , while bud is tops in canada and corona is king in mexico . england prefers carling over anything else , while ireland opts for guinness and iceland goes for viking . the map was created by <unk> . although data was not available for every country - the us state department <unk> <unk> according to <unk> - the map does include more than 100 countries . if data was available , <unk> determined the most popular beer for each country by market share . australians go for victoria bitter while lion red is the top dog in new zealand and <unk> rules in indonesia . <unk> is the preferred choice in brazil , chile likes cristal and <unk> shows up as argentina is beer of choice . china likes a beer called snow , russians go for <unk> above everything else and india likes <unk> . many of the beers on the map come from one of the two largest beer companies in the world is - a <unk> busch <unk> or <unk> . <unk> - busch <unk> controls the most popular beers in the united states , canada , brazil , paraguay , mexico , and argentina , according to the washington post . <unk> owns the most popular beer in colombia , south africa , peru , ecuador and other places . <unk> is the preference in algeria , turkey goes for <unk> and gold star is the gold standard for beer in israel . carling black label beer is no . 1 in south africa while <unk> lager is the top beverage in <unk> . a previous chart from <unk> shows that six of the top twenty beers in the us are versions of budweiser
+Actual:  bud light is most popular beer in us , while budweiser is tops in canada . england carling over anything else , while ireland opts for guinness . australians go for victoria bitter while red is the top dog in new zealand . the most popular beer for each country was by its market share
+Predicted:  <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> in the . . . . . . . the <unk> of <unk> . <unk> . <unk> , to be the
+
+Src:  actress taraji p. henson is apologizing for claiming her son was racially profiled during a traffic stop in southern california last year . the glendale police department released dash cam video of the encounter friday , which <unk> her son is claims . police released the footage after henson commented about the alleged profiling in an uptown magazine interview published last month . in her interview , the star of the hit television show empire said her son , marcell johnson , 20 , was racially profiled in glendale and at the university of southern california , where she accused campus police of stopping him for having his hands in his pockets . after her son is claim , she vowed to send him to howard university in washington instead . i am not paying <unk> so i ca not sleep at night wondering is this the night my son is getting racially profiled on campus , she said . even the university of southern california stepped in , with its public safety director , john thomas , saying he was disturbed by the report of the profiling , and was investigating it further . we encourage reporting of allegations of bias and i hope for the opportunity to have a conversation with the young man and his mother , thomas said . but henson retracted her accusations friday , and publicly apologized to the glendale police department . a mother is job is not easy and neither is a police officer is , she said in a post on instagram . sometimes as humans we <unk> without gathering all of the facts . as a mother in this case i <unk> and for that i apologize . thank you to that officer for being kind to my son . police chief robert castro said his agency researched the traffic stop after her comments to the magazine . the incident started when a glendale officer pulled over johnson in october for failing to yield to a pedestrian at a cross walk . during the traffic stop , johnson admitted to having marijuana , an <unk> and ritalin without a prescription , a felony , according to castro . he consented to a search of the vehicle , and officers found marijuana , honey oil concentrated marijuana , a marijuana grinder and a knife , castro said . johnson was not driving while impaired and was only cited for possession of marijuana , he said . <unk> that was reported in the story in uptown magazine with taraji p. henson <unk> and weakens the relationships between law enforcement and the communities , castro said . the glendale police department said friday it appreciated henson is apology and is sharing it with its officers
+Actual:  glendale authorities release dash cam video of the encounter . it contradicts her son is claims
+Predicted:  <unk> <unk> was a of her husband , her , . . . . . . .
+
+Src:  unmasked jihadi john has been identified as mohammed emwazi . a charity that funded the human rights group which described jihadi john as a beautiful young man has been forced to halt further donations . the joseph rowntree charitable trust had made six - figure donations to cage , but links with the warped campaign group prompted outrage from westminster and the threat of a charity commission inquiry . the mail has also highlighted criticism of cage and its <unk> about jihadi john , identified as mohammed emwazi , for the past week . last night the rowntree trust reluctantly agreed to stop bankrolling cage after officials at the charity commission furious over cage is support for the is killer threatened a statutory inquiry into its leadership if it refused to give unequivocal assurances it would withdraw funding . cage caused outrage last week over its attempts to justify the killings meted out by kuwaiti - born briton emwazi , because he had claimed to have been harassed by mi5 . the campaign group gave an extraordinary press briefing about emwazi carried live at length on the bbc and sky after he was identified as the man behind the mask of jihadi john . asim qureshi , its research director , described one of the world is most wanted terrorists as a beautiful young man , extremely gentle and the most humble young person that i ever knew . the 32-year - old blamed british security services for emwazi is radicalisation , saying he had tried to fit in but had been made to feel like an <unk> . and on thursday night , qureshi was a guest on bbc1 is this week , which appeared to expose him as a <unk> for jihad . scroll down for video . when presenter andrew neil confronted him with a previous interview in which he had appeared to support executing <unk> by stoning , he refused to give a straight confirmation or denial , instead repeatedly stating i am not a <unk> . cage has been propped up largely by grants from the joseph rowntree charitable trust since 2007 , making a combined total of 305,000 . the trust said its last grant payment to cage was in january 2014 . a separate charity , the roddick foundation , has also handed over 120,000 to cage . the charity commission wrote to the rowntree and roddick charities on monday , giving them 24 hours to give <unk> assurances they would stop funding cage . warped cage is research director asim qureshi left at a press conference about jihadi john last week . while officials at roddick gave immediate guarantees they would pull the plug , the rowntree charity dragged its heels and agreed to stop funding cage only after the charity commission threatened to launch an inquiry into how it is run . a source said rowntree complained of unprecedented <unk> pressure when they eventually backed down . the source added very reluctantly , and with very little grace , rowntree caved in at the 11th hour . it is extraordinary how they dithered over whether cage was a suitable organisation to fund . the charity commission started investigating both the rowntree and roddick charities over their funding of cage in 2013 . much of the rest of its income comes from cash donations from muslims . last week lord <unk> , a former independent reviewer of anti - terrorism legislation , said cage is an organisation with a warped view . no sensible person should be funding it . sources at the charity commission believe officials at rowntree may have been duped when they agreed to support cage . the mail has highlighted criticism of cage and its <unk> about jihadi john , identified as mohammed emwazi , for the past week . in a statement rowntree said in the last week we have been put under intense <unk> pressure to rule out any future funding of cage . in the light of <unk> pressure , and to protect the interests of all our <unk> and the other work of the trust , we have decided to confirm we will not fund cage either now or in the future . a charity commission spokesman said statements by cage officials heightened concerns about the use of charitable funds to support their activities . in these circumstances , -lsb- we -rsb- required unequivocal assurances from the two charities that they have <unk> funding cage and had no intention of doing so in the future . we are glad both the roddick foundation and the joseph rowntree charitable trust have <unk> funding cage . a cage spokesman said last night we respect their decision . we thank them for their past support . both of these charities have played a significant role in contributing to the development of muslim civil society here in the uk
+Actual:  joseph rowntree charitable trust had made six - figure donations to cage . but links with the group prompted outrage from westminster . the mail highlighted criticism of cage and its statements about jihadi . the rowntree trust has now reluctantly agreed to stop bankrolling cage . officials at charity commission an inquiry into its leadership if it refused to give unequivocal assurances it would withdraw funding
+Predicted:  <unk> <unk> is accused of <unk> <unk> to be a . . . . . he was . <unk> <unk> . <unk> <unk> . <unk> <unk> . <unk> <unk> <unk> <unk> <unk> . <unk> <unk> says he will be to to the . . . . . <unk> <unk> <unk> <unk> to <unk> the . . . . . the <unk> . the
+
+Src:  sam warburton will become wales most capped captain on saturday after the flanker overcame a knee problem to be named in the starting xv to face ireland . the 26-year - old will lead an unchanged line - up for the rbs 6 nations tie at the millennium stadium , where wales are bidding to keep alive their championship hopes and derail ireland is grand slam charge . warburton , who limped off during the victory over france , will overtake ryan jones on his landmark appearance , leading out his country for the 34th time since making his debut back in 2009 . sam warburton left will become wales most capped captain after the flanker overcame a knee problem . wales training during their open session ahead of saturday is rbs six nations match against ireland . wales coach warren gatland smiles during the training session ahead of their vital tie . gatland has named the same xv that beat france as they take on europe is form team in cardiff . wales head coach gatland and captain warburton face the media during the team announcement . saturday is also a fantastic achievement and honour for sam , said gatland . he has developed into the role fantastically and is a modern day professional . he is a role model that will continue to get better . gatland has made just two changes to his matchday squad , with forwards jake ball and rob evans replacing the injured bradley davies and paul james on the bench . we return to the millennium stadium after two tough away trips with two victories and will be looking to build on that , said the kiwi . we saw an improvement against scotland and then saw another step up against france and we know we will need to do the same against ireland on saturday . ireland are the form team in europe and we know it is going to be a huge battle . the changes on the bench mean rob evans gets an opportunity . we have been impressed with him for his region and at training . our strength in depth in the second - row is highlighted again as jake comes back into the squad . wales lost against england in cardiff , but have been better in wins over scotland and france above . warburton has overcome a knock picked up against france to captain wales a record - breaking 34th time . leigh halfpenny toulon , george north northampton saints , jonathan davies <unk> clermont <unk> , jamie roberts racing metro , liam williams scarlets , dan <unk> ospreys , rhys webb ospreys , gethin jenkins cardiff blues , scott baldwin ospreys , samson lee scarlets , luke <unk> racing metro , alun wyn jones ospreys , dan lydiate ospreys , sam warburton cardiff blues , capt , <unk> faletau newport <unk> dragons . replacements richard hibbard gloucester , rob evans scarlets , aaron jarvis ospreys , jake ball scarlets , justin <unk> ospreys , mike phillips racing metro , rhys <unk> scarlets , scott williams scarlets
+Actual:  warren gatland keeps the same starting xv who beat france in paris . sam warburton will captain for the 34th time in cardiff on saturday . warburton had gone off injured against france , is fit to play . ireland chasing a grand slam , but wales still in with a of title
+Predicted:  england is ireland is ireland is <unk> <unk> <unk> . <unk> . . . . . . . <unk> <unk> <unk> <unk> <unk> <unk> <unk> . <unk> . <unk> <unk> . <unk> <unk> <unk> the is not . the to be the
+
+Src:  new york governor andrew cuomo is youngest daughter was briefly hospitalized after she was found unconscious in her home earlier this week . michaela kennedy cuomo , 17 , was found in the westchester home she shares with her mother , kerry kennedy , on wednesday evening . she was taken to westchester medical center where she was treated and released . michaela kennedy cuomo , 17-year - old daughter of new york governor andrew cuomo right , was found unconscious on wednesday in the westchester home she shares with her mother . a bedford police department spokesman confirmed that officers responded to a medical emergency at the address and transported one person from the home to the hospital , according to the new york daily news . the office of gov . cuomo was unavailable to comment . michaela cuomo is the youngest daughter of gov . cuomo and kerry kennedy . she has older twin sisters , cara and mariah , aged 20 . her parents were married for 13 years before divorcing in 2003 . her father now lives with his longtime girlfriend , tv chef sandra lee . michaela , pictured here in 2002 in her mother is arms , along side her two sisters , grandmother and father , was treated at the westchester medical center wednesday evening and has been released . michaela kennedy cuomo left , pictured with kyra kennedy in december , has been active in the political scene , having just raised money for awareness of sexual assault . the teenager has been active in the political community in recent years , with her latest endeavor delving into awareness of sexual assault . last month she sold t - shirts that read , my having a good a * * does not give you the right to be one , and gave proceeds to the robert f kennedy center for justice and human rights . in 2014 michaela cuomo lobbied democratic former new york sen . cecilia <unk> to reverse her position on the <unk> fair labor practices act . michaela kennedy cuomo left walks into a manhattan funeral home with her father and his girlfriend sandra lee right for the wake of her grandfather , former three - term governor mario cuomo on january 5
+Actual:  michaela kennedy cuomo , 17 , was found in the westchester home she shares with her mother kerry kennedy , on wednesday evening . she was taken to westchester medical center and has been . michaela is the youngest of gov . cuomo is three daughters
+Predicted:  new kennedy is daughter was found in a bathtub in her . . . . . . <unk> , . . . . from the
+
