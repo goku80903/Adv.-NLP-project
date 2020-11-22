@@ -4,7 +4,7 @@
    The Dataset considered is same as the one used in the paper. It can be obtained from the [link](https://github.com/abisee/cnn-dailymail).
 
 ### Version 1
- The version 1 consists of the basic Bahandau attention model.
+ The version 1 consists of the basic Bahdanau attention model.
  
 ### Version 2
   This version is the baseline implementation of the model specifed in the paper. A varient of [Abstractive Text Summarization Using Sequence-to-Sequence RNNs and Beyond by Ramesh Nallapati](https://arxiv.org/pdf/1602.06023) without the large vocab trick. The vocab has been limited to a size of 50k by taking a minimum frequency of 27 while constructing the vocab. 
