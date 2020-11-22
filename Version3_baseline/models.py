@@ -168,9 +168,6 @@ class decoderRNN(nn.Module):
         c_t, attn_dist = self.attention(h_c_dec, encoder_outputs, encoder_features, enc_padding_mask)
 
         output = torch.cat((lstm_out.view(-1,self.hid_dim), c_t), 1)
-        #if output.isnan().any()==True:
-        #    print("output is nan:",output.isnan().any())
-        #    exit()
 
         #output = self.out1(output)
         output = self.out2(output)

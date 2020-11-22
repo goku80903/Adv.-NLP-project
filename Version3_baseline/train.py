@@ -125,8 +125,9 @@ def train(model,iterator,optimizer,clip=2):
     encoder_output, encoder_features, encoder_hidden = model.encoder(src)
     step_losses = []
     input = trg[0,:]
+    c_t = Variable(torch.zeros((BATCH_SIZE, 2* config.ENC_EMB_DIM)))
     for t in range(1,min(dec_len,config.MAX_DEC_LEN)):
-      final_dist, s_t, c_t, attn_dist = model.decoder(input, encoder_hidden, encoder_output, encoder_features, enc_padding_mask)
+      final_dist, s_t, c_t, attn_dist = model.decoder(input, encoder_hidden, encoder_output, encoder_features, enc_padding_mask, c_t)
 
       gold_probs = torch.gather(final_dist, 1, trg[t].unsqueeze(1)).squeeze()
       step_loss = -torch.log(gold_probs+1e-12)
